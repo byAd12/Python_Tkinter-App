@@ -4,12 +4,14 @@ Created data: 28/3/2022
 This github informs you of our policies regarding the collection.
 MiniBoy Team get your Discord data to get a safer place.
 
-Service:
-Discord
+Information Collection and Use
+The data we collect on Discord is stored in secure databases to prevent data loss. We collect:
 
-Personal Data:
-By saying personal data we mean that we only store Discord ids that will be used to store your data, also by guaranteeing that we keep your data you can request that we delete it and we will do.
-
-Usage Data:
-The data  is stored on safe files that we backup everyday to garant a safer data.
-All data used in our databases is ONLY used to ensure that you have a good experience with MiniBoy.
+- All servers that use our service must have a custom prefix, therefore we save the server id to identify the server with its respective prefix. 
+  When the bot leaves the server this data is automatically deleted.
+- The ids of the users are saved for the economy system to be able to identify each respective user with their coins, wins, level, xp. 
+  This data is permanently stored in our databases, but someone can request to delete it.
+- To prevent the abuse of our services we save the command that was executed, who executed it, where it was executed and when it was executed. 
+  This data is kept for 15 days and then will be deleted.
+- Configuration data, such as the anti link, welcome message or ticket system, the server and channel ids are saved for these services to work. 
+  When the bot leaves these servers the data is automatically deleted.
