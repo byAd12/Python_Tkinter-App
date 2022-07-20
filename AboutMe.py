@@ -1,4 +1,4 @@
-@bot.slash_command(description="Bot information")
+@bot.slash_command(description="MiniBoy information")
 async def botinfo(interaction: Interaction):
     aboutme = nextcord.Embed(title=f"{bot.user.name} Information", description="""    
 MiniBoy is a discord bot created on August 01, 2021 as a test bot created by Ad. 
