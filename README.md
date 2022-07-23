@@ -6,6 +6,7 @@ The bot currently has +150 servers and +200k users.
 
 # Links
 
-* [Invite me]
-* []
-* []
+* [Invite me](https://dsc.gg/miniboy)
+* [Support Server](https://discord.gg/gG3DnUfj6E)
+* [Patreon](https://www.patreon.com/MiniBoy)
+* [Twitter]()
