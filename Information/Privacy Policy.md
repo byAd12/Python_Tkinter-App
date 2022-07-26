@@ -14,3 +14,12 @@ Your use of our bot "MiniBoy" implies that you agree to the Terms stated on this
 * You agree to our Privacy Policy.
 * You agree we shall not be held liable for users that abuse our service to perform malicious, or otherwise unlawful ventures. However, as stated previously in these Terms;
 We do uphold the right to warn/ban in these circumstances.
+
+**Data that we collect:**
+
+* We store your id.
+* We store your guild id and channel id if you are ussing a system that we provide.
+
+We reserve the right to change, modify, add, or remove portions of our Terms at any time, and you will still be expected to comply. 
+It is recommended to check this page periodically for changes.
+We may warn/ban users if we discover they didn't comply with these Terms.
