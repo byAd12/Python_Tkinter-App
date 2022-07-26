@@ -1,25 +1,40 @@
-# MiniBoy Terms of Service
-### Creation date: **26/7/2022** | Last updated at: **26/7/2022** | ©️ Owner: **byAd12**
+# **MiniBoy Privacy Policy**
+Creation date: **26/7/2022** | Last updated at: **26/7/2022** | ©️ Owner: **byAd12**
 
-Your use of our bot "MiniBoy" implies that you agree to the Terms stated on this page, and these Terms will remain in effect while you use the service.
+## Information Collection And Use
 
-**Terms:**
+We collect different types of information for various purposes to improve our services and user experiences. We also collect information on how the users use our service to improve the ussage of MiniBoy.
 
-* You agree that you will not contribute any content/actions that use our service or interact with our service.
-* You agree to not decompile or modify our software in any way. We may take legal steps if we detect these actions.
-* You understand that we reserve the right to warn/ban users of our service, for any reason; even if the user isn't directly violating our Terms. 
-* You also understand, we may ban any user that breaks Discord's Terms of Service and/or Discord's Community Guidelines.
-* You agree not to spam or overuse our computing/storage resources.
-* You agree not to exploit a detected bug. It should be sent as a report to the developers instead.
-* You agree to our Privacy Policy.
-* You agree we shall not be held liable for users that abuse our service to perform malicious, or otherwise unlawful ventures. However, as stated previously in these Terms;
-We do uphold the right to warn/ban in these circumstances.
 
-**Data that we collect:**
+## Data that we collect
 
-* We store your id.
+* We store your Discord id.
 * We store your guild id and channel id if you are ussing a system that we provide.
 
-We reserve the right to change, modify, add, or remove portions of our Terms at any time, and you will still be expected to comply. 
+## Use of the Data
+
+We use the data to:
+
+* Provide good services
+* Provide custom support to our clients
+* To prevent technical issues on our service
+* To monitor the usage of our Service
+
+## Data storage time
+
+We will only store the data in secure files that will not be lost under any circumstances. The data is retained until someone stops using our service, for example, if you kick the bot from their server, it will be automatically deleted from our files.
+
+We don't store the data all the time, we just store it for periods of time.
+
+## Changes to our Privacy Policy
+
+We reserve the right to change, modify, add, or remove portions of our Privacy Policy.
 It is recommended to check this page periodically for changes.
-We may warn/ban users if we discover they didn't comply with these Terms.
+
+## Data security
+
+We remember that we **never** sell or transfer the data to other people. This is private so you are safe.
+
+## Contact us
+
+To contact us you can go on our [support server](https://discord.gg/aWQwP23T4M).
