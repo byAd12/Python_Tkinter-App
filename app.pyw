@@ -23,7 +23,6 @@ def vid_aud(app):
         entry = tk.Entry(app3, width=40); entry.pack(pady=10, padx=10)
         if i == "mp4_mp3": tk.Button(app3, text="Convertir", command=lambda: mp4_mp3(entry.get(), app3)).pack(pady=10, padx=10)
         if i == "yt_mp4":  tk.Button(app3, text="Descargar", command=lambda: yt_ph_mp4(entry.get(), app3)).pack(pady=10, padx=10)
-        if i == "ph_mp4":  tk.Button(app3, text="Descargar", command=lambda: yt_ph_mp4(entry.get(), app3)).pack(pady=10, padx=10)
         tk.Button(app3, text="Volver", command=lambda: cerrar(app3, "y")).pack(pady=10, padx=10)
         app3.mainloop()
     
@@ -33,7 +32,6 @@ def vid_aud(app):
     tk.Label(app2, text="VÍDEO Y AUDIO", font=("Helvetica", 20, "bold"), bg="#282C34", fg="#ABB2BF").pack(pady=20)
     tk.Button(app2, text="MP4 a MP3", command=lambda: valor("mp4_mp3"), **botón1).pack(pady=10, padx=10)
     tk.Button(app2, text="YT a MP4", command=lambda: valor("yt_mp4"), **botón1).pack(pady=10, padx=10)
-    tk.Button(app2, text="PH a MP4", command=lambda: valor("ph_mp4"), **botón1).pack(pady=10, padx=10)
     tk.Button(app2, text="Volver", command=lambda: cerrar(app2, app), **botón_volver).pack(pady=10, padx=10)
     app2.mainloop()
 ####
