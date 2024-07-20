@@ -1,5 +1,5 @@
 import tkinter as tk
-#from func.exec import mp4_mp3, yt_ph_mp4, png_jpg, jpg_png, jpg_bmp, png_tiff, dec_bin, dec_hex, hash, hash_archivo, contra, cal, bin_dec
+from func.exec import mp4_mp3, yt_ph_mp4, png_jpg, jpg_png, jpg_bmp, png_tiff, dec_bin, dec_hex, hash, hash_archivo, contra, cal, bin_dec
 #############################################################################################
 # FUNCTIONS
 def cerrar(secondary_window, main_window):
