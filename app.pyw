@@ -1,7 +1,7 @@
 import tkinter as tk
 from func.exec import mp4_mp3, yt_ph_mp4, png_jpg, jpg_png, jpg_bmp, png_tiff, dec_bin, dec_hex, hash, hash_archivo, contra, cal, bin_dec
 #############################################################################################
-# FUNCIONES DE LAS VENTANAS
+# FUNCTIONA
 def cerrar(secondary_window, main_window):
     secondary_window.destroy()
     main_window.deiconify() if main_window != "y" else print("y")
@@ -16,7 +16,7 @@ def centrar(window):
     y = 10
     window.geometry(f"+{x}+{y}")
 #############################################################################################
-# VENTANAS
+# WINDOWS
 def vid_aud(app):
     def valor(i):
         app3 = tk.Tk(); app3.title("Multi funciones")
@@ -101,7 +101,7 @@ def otr(app):
     tk.Button(app2, text="Volver", command=lambda: cerrar(app2, app), **botón_volver).pack(pady=10, padx=10)
     app2.mainloop()
 #############################################################################################
-# VENTANA PRINCIPAL
+# MAIN WINDOW
 app = tk.Tk(); centrar(app)
 app.title("Multi funciones"), app.geometry("300x410"), app.resizable(False, False), app.configure(bg="#282C34"), app.attributes("-alpha", 0.95)
 botón1 = {"bg": "#61AFEF", "fg": "#FFFFFF", "font": ("Helvetica", 14, "bold"), "relief": "flat", "bd": 0, "highlightthickness": 0, "width": 25, "height": 2}
@@ -115,4 +115,4 @@ tk.Button(app, text="OTRAS", command=lambda: otr(app), **botón1).pack(pady=10, 
 tk.Label(app, text="byAd12.pages.dev", font=("Arial", 10, "bold"), bg="#282C34", fg="#ABB2BF").pack(pady=5)
 app.mainloop()
 #############################################################################################
-# Hecho por byAd12 (adgimenezp@gmail.com)
+# byAd12 (adgimenezp@gmail.com)
