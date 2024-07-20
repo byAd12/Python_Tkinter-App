@@ -1,10 +1,6 @@
 # Multi Function App
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+
 
 ## Links
 
