@@ -8,5 +8,5 @@
 
 ## Links
 
-* [Patreon](https://www.patreon.com/MiniBoy)
+* [Patreon](https://www.patreon.com/byAd12)
 * [Web](https://byad12.pages.dev)
